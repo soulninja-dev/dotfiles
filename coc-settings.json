@@ -1,0 +1,14 @@
+{
+    "coc.preferences.formatOnSaveFiletypes": [
+      "css",
+      "markdown",
+      "javascript",
+      "graphql",
+      "html",
+      "yaml",
+      "json",
+      "python"
+    ],
+    "clangd.path": "/home/soulninja/.config/coc/extensions/coc-clangd-data/install/12.0.0/clangd_12.0.0/bin/clangd"
+
+}
