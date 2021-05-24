@@ -1,17 +1,14 @@
 " SoulNinja#7777 neovim config.
 " everything in this config is from the internet 
-
-
 " Plugins
-
 " auto-install vim-plug
+
 if empty(glob('~/.config/nvim/autoload/plug.vim'))
   silent !curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs
     \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
   "autocmd VimEnter * PlugInstall
   "autocmd VimEnter * PlugInstall | source $MYVIMRC
 endif
-
 call plug#begin('~/.config/nvim/autoload/plugged')
 
 " Better Syntax Support
@@ -32,14 +29,8 @@ Plug 'preservim/nerdtree'
 Plug 'dart-lang/dart-vim-plugin'
 " startscreen
 Plug 'mhinz/vim-startify'
-call plug#end()
 
-" coc settings 
-" GoTo code navigation.
-nmap <silent> gd <Plug>(coc-definition)
-nmap <silent> gy <Plug>(coc-type-definition)
-nmap <silent> gi <Plug>(coc-implementation)
-nmap <silent> gr <Plug>(coc-references)
+call plug#end()
 
 " general
 let g:mapleader = "\<Space>"            " Setting leader key
@@ -70,14 +61,13 @@ set nohlsearch                          " Searching will highlight as u type
 set noincsearch
 set scrolloff=8
 set signcolumn=yes                      " Extra column in the left to show errors etc
-set updatetime=50                       " Faster Completion
+set updatetime=30                       " Faster Completion
 set background=dark                     " tell vim what the background color looks like
 set showtabline=2                       " Always show tabs
 set noshowmode                          " We don't need to see things like -- INSERT -- anymore
 set nobackup                            " This is recommended by coc
 set nowritebackup                       " This is recommended by coc
 set timeoutlen=500                      " By default timeoutlen is 1000 ms
-set formatoptions-=cro                  " Stop newline continution of comments
 set clipboard=unnamedplus               " Copy paste between vim and everything else
 set autochdir                           " Your working directory will always be the same as your working directory
 set backspace=indent,eol,start
@@ -95,28 +85,19 @@ let g:gruvbox_contrast_dark='medium'
 colorscheme gruvbox
 
 " keymaps
-" Better nav for omnicomplete
-inoremap <expr> <c-j> ("\<C-n>")
-inoremap <expr> <c-k> ("\<C-p>")
-
+" I hate escape more than anything else
+inoremap jk <Esc>
+inoremap kj <Esc>
+"
 " Use alt + hjkl to resize windows
 nnoremap <M-j>    :resize -2<CR>
 nnoremap <M-k>    :resize +2<CR>
 nnoremap <M-h>    :vertical resize -2<CR>
 nnoremap <M-l>    :vertical resize +2<CR>
 
-" I hate escape more than anything else
-inoremap jk <Esc>
-inoremap kj <Esc>
-
 " Easy CAPS
 inoremap <c-u> <ESC>viwUi
 nnoremap <c-u> viwU<Esc>
-
-" TAB in general mode will move to text buffer
-nnoremap <TAB> :bnext<CR>
-" SHIFT-TAB will go back
-nnoremap <S-TAB> :bprevious<CR>
 
 " Alternate way to save
 nnoremap <C-s> :w<CR>
@@ -126,15 +107,11 @@ nnoremap <C-Q> :wq!<CR>
 nnoremap <C-c> <Esc>
 " <TAB>: completion.
 inoremap <expr><TAB> pumvisible() ? "\<C-n>" : "\<TAB>"
-
 " Better window navigation
 nnoremap <C-h> <C-w>h
 nnoremap <C-j> <C-w>j
 nnoremap <C-k> <C-w>k
 nnoremap <C-l> <C-w>l
 
-nnoremap <Leader>o o<Esc>^Da
-noremap <Leader>O O<Esc>^Da
-
 " nerdtree
-nnoremap <C-b> :NERDTreeToggle<CR>
+nnoremap <M-b> :NERDTreeToggle<CR>
