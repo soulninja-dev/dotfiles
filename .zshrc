@@ -42,7 +42,7 @@ ZSH_THEME="robbyrussell"
 # DISABLE_AUTO_TITLE="true"
 
 # Uncomment the following line to enable command auto-correction.
-# ENABLE_CORRECTION="true"
+ENABLE_CORRECTION="true"
 
 # Uncomment the following line to display red dots whilst waiting for completion.
 # Caution: this setting can cause issues with multiline prompts (zsh 5.7.1 and newer seem to work)
@@ -70,7 +70,14 @@ ZSH_THEME="robbyrussell"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+plugins=(git
+         npm
+         flutter
+         archlinux
+         node
+         dotenv
+         zsh-autosuggestions
+    )
 
 source $ZSH/oh-my-zsh.sh
 
@@ -110,3 +117,5 @@ lfcd () {
     fi
 }
 bindkey -s '^o' 'lfcd\n'
+export PATH=$PATH:/home/soulninja/flutter/bin
+source /home/soulninja/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
