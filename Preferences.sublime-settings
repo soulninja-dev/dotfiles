@@ -1,0 +1,64 @@
+{
+	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Hard) NDC.sublime-color-scheme",
+	"font_size": 12,
+	"gruvbox_disable_borders": true,
+	"gruvbox_statusbar_button_s": true,
+	"gruvbox_statusbar_xxs": true,
+	"gruvbox_tabs_xs": true,
+	"ignored_packages":
+	[
+		"Kite Python Autocomplete",
+		"KiteSublime",
+		"Six",
+		"Vintageous"
+	],
+	"linters":
+	{
+		"g++":
+		{
+			"I":
+			[
+				"${file_path}/include",
+				"${folder}/include",
+				"/usr/local/include"
+			],
+			"args":
+			[
+				"-fsyntax-only",
+				"-std=c++17"
+			],
+			"disable": false,
+			"excludes":
+			[
+			],
+			"executable":
+			[
+				"g++"
+			]
+		},
+		"gcc":
+		{
+			"I":
+			[
+				"${file_path}/include",
+				"${folder}/include",
+				"/usr/local/include"
+			],
+			"args":
+			[
+				"-fsyntax-only",
+				"-std=c90"
+			],
+			"disable": false,
+			"excludes":
+			[
+			],
+			"executable":
+			[
+				"gcc"
+			]
+		}
+	},
+	"neovintageous_build_version": 11100,
+	"theme": "gruvbox.sublime-theme"
+}

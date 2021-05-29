@@ -1,0 +1,11 @@
+{
+    "shell_cmd": "javac '$file' && konsole --noclose -e 'java $file_base_name && rm $file_base_name.class'",
+    "shell": true,
+    "variants":
+    [
+        {
+            "name": "Run in output window",
+            "shell_cmd": "javac '$file' && java $file_base_name && rm $file_base_name.class"
+        }
+    ]
+}
