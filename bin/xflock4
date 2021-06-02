@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+
+## Lock according to session on closing lid
+if [[ "$DESKTOP_SESSION" == "bspwm" ]]; then
+    bsplock
+else
+    betterlockscreen --lock
+fi

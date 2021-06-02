@@ -1,0 +1,14 @@
+{
+	"theme": "gruvbox.sublime-theme",
+	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Hard) NDC.sublime-color-scheme",
+	"ignored_packages":
+	[
+	],
+	"font_size": 12,
+	"gruvbox_disable_borders": true,
+	"gruvbox_statusbar_button_s": true,
+	"gruvbox_statusbar_xxs": true,
+	"gruvbox_tabs_xs": true,
+	"font_face": "Fira Code",
+	"word_wrap": true,
+}
