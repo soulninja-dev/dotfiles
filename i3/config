@@ -337,19 +337,19 @@ client.urgent   $ubgcolor   $ubgcolor   $textcolor  $ubgcolor
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
-bar {
-       i3bar_command i3bar --transparency
-       tray_output none
-       font pango:Fira Mono 9
-           colors {
-               background #282828D9
-               separator #282828D9
-               #                       border      background          text
-               focused_workspace       $bgcolor    $bgcolor            $textcolor 
-               inactive_workspace      #292929D9     #32302fD9             $textcolor
-               urgent_workspace        $ubgcolor   $ubgcolor           $textcolor
-           }
-}
+#bar {
+#       i3bar_command i3bar --transparency
+#       tray_output none
+#       font pango:Fira Mono 9
+#          colors {
+#               background #282828D9
+#               separator #282828D9
+#               #                       border      background          text
+#               focused_workspace       $bgcolor    $bgcolor            $textcolor 
+#               inactive_workspace      #292929D9     #32302fD9             $textcolor
+#               urgent_workspace        $ubgcolor   $ubgcolor           $textcolor
+#           }
+#}
 
 # set monitor layout
 exec_always --no-startup-id /home/soulninja/.screenlayout/dualtotheleft.sh
@@ -361,4 +361,4 @@ exec_always --no-startup-id compton -f
 
 
 # polybar yay
-exec_always --no-startup-id /home/soulninja/.config/polybar/launch.sh
+exec_always --no-startup-id /home/soulninja/.config/polybar/launch.sh --cuts
