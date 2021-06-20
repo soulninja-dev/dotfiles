@@ -24,7 +24,7 @@ font pango:Fira Code 9
 
 # xss-lock grabs a logind suspend inhibit lock and will use i3lock to lock the
 # screen before suspend. Use loginctl lock-session to lock your screen.
-exec --no-startup-id xss-lock --transfer-sleep-lock -- betterlockscreen -l --nofork
+exec --no-startup-id xss-lock --transfer-sleep-lock -- betterlockscreen -l --nofork -u /home/soulninja/dotfiles/background/bg_0.png
 
 # NetworkManager is the most popular way to manage wireless networks on Linux,
 # and nm-applet is a desktop environment-independent system tray GUI for it.
@@ -50,7 +50,8 @@ bindsym $mod+Shift+q kill
 bindsym $mod+d exec --no-startup-id dmenu_run
 
 # start rofi launcher
-bindsym $mod+p exec --no-startup-id /home/soulninja/.config/rofi/bin/launcher 
+bindsym $mod+p exec --no-startup-id /home/soulninja/.config/polybar/forest/scripts/launcher.sh 
+
 
 # A more modern dmenu replacement is rofi:
 # bindcode $mod+40 exec "rofi -modi drun,run -show drun"
@@ -116,13 +117,13 @@ bindsym $mod+x exec --no-startup-id betterlockscreen -l
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
-set $ws1 "1:Secondary"
-set $ws2 "2:Brave"
-set $ws3 "3:Code"
-set $ws4 "4:Chat"
-set $ws5 "5:Spotify"
-set $ws6 "6:Todo/Calen"
-set $ws7 "7:Notes"
+set $ws1 "1"
+set $ws2 "2"
+set $ws3 "3"
+set $ws4 "4"
+set $ws5 "5"
+set $ws6 "6"
+set $ws7 "7"
 set $ws8 "8"
 set $ws9 "9"
 set $ws10 "10"
@@ -157,6 +158,7 @@ for_window [class="Spotify"] move to workspace $ws5
 for_window [class="Todoist"] move to workspace $ws6
 for_window [class="notion-snap"] move to workspace $ws7
 for_window [class="obsidian"] move to workspace $ws7
+for_window [class="zoom"] move to workspace $ws10
 
 # screenshot
 bindsym $mod+Shift+s exec --no-startup-id flameshot gui
@@ -337,28 +339,28 @@ client.urgent   $ubgcolor   $ubgcolor   $textcolor  $ubgcolor
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
-#bar {
-#       i3bar_command i3bar --transparency
-#       tray_output none
-#       font pango:Fira Mono 9
-#          colors {
-#               background #282828D9
-#               separator #282828D9
-#               #                       border      background          text
-#               focused_workspace       $bgcolor    $bgcolor            $textcolor 
-#               inactive_workspace      #292929D9     #32302fD9             $textcolor
-#               urgent_workspace        $ubgcolor   $ubgcolor           $textcolor
-#           }
-#}
+bar {
+       i3bar_command i3bar --transparency
+       tray_output none
+       font pango:Fira Mono 9
+          colors {
+               background #282828D9
+               separator #282828D9
+               #                       border      background          text
+               focused_workspace       $bgcolor    $bgcolor            $textcolor 
+               inactive_workspace      #292929D9     #32302fD9             $textcolor
+               urgent_workspace        $ubgcolor   $ubgcolor           $textcolor
+           }
+}
 
 # set monitor layout
 exec_always --no-startup-id /home/soulninja/.screenlayout/dualtotheleft.sh
+
 # wallpaper
 exec_always --no-startup-id nitrogen --restore
 
 # compositor
-exec_always --no-startup-id compton -f
-
+exec_always --no-startup-id picom -f
 
 # polybar yay
-exec_always --no-startup-id /home/soulninja/.config/polybar/launch.sh --cuts
+exec_always --no-startup-id /home/soulninja/.config/polybar/launch.sh --forest
