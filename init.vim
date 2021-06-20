@@ -1,5 +1,9 @@
 " SoulNinja#7777 neovim config.
 " everything in this config is from the internet 
+
+
+
+
 " Plugins
 " auto-install vim-plug
 
@@ -13,20 +17,24 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 
 " Better Syntax Support
 Plug 'sheerun/vim-polyglot'
+
 " File Explorer
 Plug 'scrooloose/NERDTree', { 'on': 'NERDTreeToggle' }
+
 " Auto pairs for '(' '[' '{'
 Plug 'jiangmiao/auto-pairs'
+
 " gruvbox theme
 Plug 'gruvbox-community/gruvbox'
+
 " Intellisense
 Plug 'neoclide/coc.nvim', { 'branch': 'release' }    
+
 " Files and folder management 
 Plug 'junegunn/fzf.vim'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'preservim/nerdtree'
-" dart 
-Plug 'dart-lang/dart-vim-plugin'
+
 " startscreen
 Plug 'mhinz/vim-startify'
 
@@ -40,14 +48,14 @@ set hidden                              " Required to keep multiple buffers open
 set encoding=utf-8                      " The encoding displayed
 set pumheight=10                        " Makes popup menu smaller
 set fileencoding=utf-8                  " The encoding written to file
-set ruler              			            " Show the cursor position all the time
+set ruler              			        " Show the cursor position all the time
 set iskeyword+=-                      	" treat dash separated words as a word text object"
 set mouse=a                             " Enable your mouse
 set splitbelow                          " Horizontal splits will automatically be below
 set splitright                          " Vertical splits will automatically be to the right
 set t_Co=256                            " Support 256 colors
 set conceallevel=0                      " So that I can see `` in markdown files
-set tabstop=4                           " Insert 2 spaces for a tab
+set tabstop=4                           " Insert 4 spaces for a tab
 set shiftwidth=4                        " Change the number of space characters inserted for indentation
 set smarttab                            " Makes tabbing smarter will realize you have 2 vs 4
 set expandtab                           " Converts tabs to spaces
@@ -102,7 +110,7 @@ nnoremap <c-u> viwU<Esc>
 " Alternate way to save
 nnoremap <C-s> :w<CR>
 " Alternate way to quit
-nnoremap <C-Q> :wq!<CR>
+nnoremap <C-Q> :q!<CR>
 " Use control-c instead of escape
 nnoremap <C-c> <Esc>
 " <TAB>: completion.
