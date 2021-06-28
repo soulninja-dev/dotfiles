@@ -1,9 +1,6 @@
 " SoulNinja#7777 neovim config.
 " everything in this config is from the internet 
 
-
-
-
 " Plugins
 " auto-install vim-plug
 
@@ -21,11 +18,13 @@ Plug 'sheerun/vim-polyglot'
 " File Explorer
 Plug 'scrooloose/NERDTree', { 'on': 'NERDTreeToggle' }
 
+Plug 'nvim-treesitter/nvim-treesitter'
 " Auto pairs for '(' '[' '{'
 Plug 'jiangmiao/auto-pairs'
 
 " gruvbox theme
-Plug 'gruvbox-community/gruvbox'
+Plug 'sainnhe/gruvbox-material'
+Plug 'folke/lsp-colors.nvim'
 
 " Intellisense
 Plug 'neoclide/coc.nvim', { 'branch': 'release' }    
@@ -89,8 +88,8 @@ cmap w!! w !sudo tee %
 
 " theme
 let g:gruvbox_italic = 1
-let g:gruvbox_contrast_dark='medium'
-colorscheme gruvbox
+let g:gruvbox_material_background='medium'
+colorscheme gruvbox-material
 
 " keymaps
 " I hate escape more than anything else
@@ -167,3 +166,16 @@ nnoremap <silent><nowait> <space>f  :<C-u>CocCommand prettier.formatFile<cr>
 
 " FZF
 nnoremap <C-p> :Files<Cr>
+
+lua <<EOF
+require'nvim-treesitter.configs'.setup {
+  ensure_installed = "maintained", -- one of "all", "maintained" (parsers with maintainers), or a list of languages
+  highlight = {
+    enable = true,
+  },
+  indent = {
+    enable = true
+  }
+}
+EOF
+
