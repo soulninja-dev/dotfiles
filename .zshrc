@@ -1,14 +1,11 @@
 export ZSH=$HOME/.oh-my-zsh
 
-ZSH_THEME="archcraft"
+ZSH_THEME="robbyrussell"
 
-plugins=(git npm flutter archlinux node dotenv zsh-autosuggestions zsh-syntax-highlighting)
+plugins=(git node zsh-autosuggestions zsh-syntax-highlighting)
 
 
 source $ZSH/oh-my-zsh.sh
-
-alias zshconfig="geany ~/.zshrc"
-alias ohmyzsh="thunar ~/.oh-my-zsh"
 
 # ls
 alias l='ls -lh'
