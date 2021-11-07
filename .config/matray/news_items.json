@@ -1,0 +1,76 @@
+{
+  "Items" : [
+    {
+      "GUID" : "forum.manjaro.org-topic-81259",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2021-09-04-kernels-wine-deepin-kde-gear-maui-kit-plasma/81259",
+      "Title" : "[Stable Update] 2021-09-04 - Kernels, Wine, Deepin, KDE Gear, Maui-Kit, Plasma",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2021-09-04T18:57:07Z",
+      "PublishedDateUnix" : 1630781827,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-81260",
+      "URL" : "https://forum.manjaro.org/t/manjaro-21-1-2-pahvo-released/81260",
+      "Title" : "Manjaro 21.1.2 Pahvo released!",
+      "Category" : "Releases",
+      "PublishedDate" : "2021-09-04T19:12:21Z",
+      "PublishedDateUnix" : 1630782741,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-81868",
+      "URL" : "https://forum.manjaro.org/t/manjaro-cinnamon-21-1-2-shipping-browser-vivaldi/81868",
+      "Title" : "Manjaro Cinnamon 21.1.2 shipping browser Vivaldi",
+      "Category" : "Announcements",
+      "PublishedDate" : "2021-09-09T07:08:24Z",
+      "PublishedDateUnix" : 1631171304,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-82822",
+      "URL" : "https://forum.manjaro.org/t/manjaro-21-1-3-pahvo-released/82822",
+      "Title" : "Manjaro 21.1.3 Pahvo released!",
+      "Category" : "Releases",
+      "PublishedDate" : "2021-09-16T17:00:01Z",
+      "PublishedDateUnix" : 1631811601,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-82823",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2021-09-16-kernels-steam-pipewire-firefox-thunderbird-pamac-pacman/82823",
+      "Title" : "[Stable Update] 2021-09-16 - Kernels, Steam, Pipewire, Firefox, Thunderbird, Pamac, Pacman",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2021-09-16T17:07:54Z",
+      "PublishedDateUnix" : 1631812074,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-83940",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2021-09-24-kernels-libreoffice-browsers-pipewire-rhvoice-kde-frameworks-mesa/83940",
+      "Title" : "[Stable Update] 2021-09-24 - Kernels, LibreOffice, Browsers, Pipewire, RHVoice, KDE Frameworks, Mesa",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2021-09-24T20:00:23Z",
+      "PublishedDateUnix" : 1632513623,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-85608",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2021-10-08-kernels-mesa-browsers-python-ukui-php-thunderbird-pipewire/85608",
+      "Title" : "[Stable Update] 2021-10-08 - Kernels, Mesa, Browsers, Python, UKUI, PHP, Thunderbird, Pipewire",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2021-10-08T09:57:11Z",
+      "PublishedDateUnix" : 1633687031,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-86691",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2021-10-16-haskell-python-kde-gear-kde-framework-thunderbird/86691",
+      "Title" : "[Stable Update] 2021-10-16 - Haskell, Python, KDE Gear, KDE Framework, Thunderbird",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2021-10-16T16:34:46Z",
+      "PublishedDateUnix" : 1634402086,
+      "NotificationSent" : true
+    }
+  ]
+}

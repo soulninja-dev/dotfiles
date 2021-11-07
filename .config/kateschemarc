@@ -1,0 +1,64 @@
+[$Version]
+update_info=fonts_kate.upd:Plasma_Fonts_Kate
+
+[Visual Studio (Light)]
+Color Background=255,255,255
+Color Code Folding=246,247,250
+Color Highlighted Bracket=219,224,204
+Color Highlighted Line=234,234,242
+Color Icon Bar=230,231,232
+Color Indentation Line=210,210,210
+Color Line Number=43,145,175
+Color MarkType 1=191,210,249
+Color MarkType 2=150,58,70
+Color MarkType 3=150,58,70
+Color MarkType 4=150,58,70
+Color MarkType 5=150,58,70
+Color MarkType 6=0,128,0
+Color MarkType 7=255,0,0
+Color Modified Lines=255,238,98
+Color Replace Highlight=231,235,247
+Color Saved Lines=108,226,108
+Color Search Highlight=244,167,33
+Color Selection=51,153,255
+Color Separator=230,231,232
+Color Spelling Mistake Line=255,0,0
+Color Tab Marker=43,145,175
+Color Template Background=214,210,208
+Color Template Editable Placeholder=186,249,206
+Color Template Focused Editable Placeholder=186,249,206
+Color Template Not Editable Placeholder=247,230,230
+Color Word Wrap Marker=237,237,237
+Font=Monospace,10,-1,2,50,0,0,0,0,0
+dummy=prevent-empty-group
+
+[Visual Studio (Dark)]
+Color Background=30,30,30
+Color Code Folding=35,35,35
+Color Highlighted Bracket=14,69,131
+Color Highlighted Line=15,15,15
+Color Icon Bar=51,51,51
+Color Indentation Line=109,109,109
+Color Line Number=43,145,175
+Color MarkType 1=126,101,81
+Color MarkType 2=140,47,47
+Color MarkType 3=136,136,136
+Color MarkType 4=174,174,174
+Color MarkType 5=160,160,164
+Color MarkType 6=140,47,47
+Color MarkType 7=140,47,47
+Color Modified Lines=255,216,0
+Color Replace Highlight=15,32,45
+Color Saved Lines=21,194,60
+Color Search Highlight=119,56,0
+Color Selection=51,153,255
+Color Separator=30,30,30
+Color Spelling Mistake Line=252,62,54
+Color Tab Marker=20,72,82
+Color Template Background=214,210,208
+Color Template Editable Placeholder=186,249,206
+Color Template Focused Editable Placeholder=186,249,206
+Color Template Not Editable Placeholder=247,230,230
+Color Word Wrap Marker=21,72,82
+Font=Monospace,10,-1,2,50,0,0,0,0,0
+dummy=prevent-empty-group

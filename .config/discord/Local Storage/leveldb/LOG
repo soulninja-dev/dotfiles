@@ -1,0 +1,9 @@
+2021/11/07-15:06:23.072 596 Reusing MANIFEST /home/soulninja/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/11/07-15:06:23.072 596 Recovering log #3
+2021/11/07-15:06:23.072 596 Reusing old log /home/soulninja/.config/discord/Local Storage/leveldb/000003.log 
+2021/11/07-15:09:48.499 5a8 Level-0 table #5: started
+2021/11/07-15:09:48.501 5a8 Level-0 table #5: 60108 bytes OK
+2021/11/07-15:09:48.502 5a8 Delete type=0 #3
+2021/11/07-15:09:54.738 596 Level-0 table #7: started
+2021/11/07-15:09:54.746 596 Level-0 table #7: 19849 bytes OK
+2021/11/07-15:09:54.747 596 Delete type=0 #4

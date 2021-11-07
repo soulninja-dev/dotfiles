@@ -1,0 +1,5 @@
+[Dialogs]
+ConfirmQuit=false
+
+[Window]
+ShowSystrayIcon=false
