@@ -1,0 +1,10 @@
+2021/12/23-12:40:58.032 4774 Reusing MANIFEST /home/soulninja/.config/Postman/Partitions/00991a4a-9230-4f3f-a0a6-70020e75e82c/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/12/23-12:40:58.032 4774 Recovering log #13
+2021/12/23-12:40:58.052 4774 Reusing old log /home/soulninja/.config/Postman/Partitions/00991a4a-9230-4f3f-a0a6-70020e75e82c/IndexedDB/file__0.indexeddb.leveldb/000013.log 
+2021/12/23-12:40:58.213 4774 Level-0 table #17: started
+2021/12/23-12:40:58.232 4774 Level-0 table #17: 1503972 bytes OK
+2021/12/23-12:40:58.233 4774 Delete type=0 #13
+2021/12/23-12:41:02.310 4774 Compacting 1@0 + 1@1 files
+2021/12/23-12:41:02.319 4774 Generated table #18@0: 3166 keys, 194929 bytes
+2021/12/23-12:41:02.319 4774 Compacted 1@0 + 1@1 files => 194929 bytes
+2021/12/23-12:41:02.320 4774 compacted to: files[ 0 1 1 0 0 0 0 ]

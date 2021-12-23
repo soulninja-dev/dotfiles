@@ -1,0 +1,18 @@
+{
+	"auto_complete": false,
+	"color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
+	"font_size": 12,
+	"gruvbox_disable_borders": true,
+	"gruvbox_statusbar_button_s": true,
+	"gruvbox_statusbar_xxs": true,
+	"gruvbox_tabs_xs": true,
+	"ignored_packages":
+	[
+		"Kite Python Autocomplete",
+		"KiteSublime",
+		"Six",
+		"Vintageous",
+	],
+	"neovintageous_build_version": 11100,
+	"theme": "gruvbox.sublime-theme",
+}

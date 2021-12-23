@@ -1,0 +1,104 @@
+<project version="4">
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2502604" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="Services" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Space Automation" order="6" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="388" y="0" width="1284" height="1043" key="#Project_Structure" timestamp="1640236660219">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="388" y="0" width="1284" height="1043" key="#Project_Structure/0.0.1920.1043@0.0.1920.1043" timestamp="1640236660219" />
+    <state x="433" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1640236653059">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="433" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1043@0.0.1920.1043" timestamp="1640236653059" />
+    <state x="626" y="266" width="660" height="512" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1640236623292">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="626" y="266" width="660" height="512" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1043@0.0.1920.1043" timestamp="1640236623292" />
+    <state x="611" y="204" width="832" height="635" key="FileChooserDialogImpl" timestamp="1640236560293">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="611" y="204" width="832" height="635" key="FileChooserDialogImpl/0.0.1920.1043@0.0.1920.1043" timestamp="1640236560293" />
+    <state x="315" y="0" width="1284" height="1043" key="SettingsEditor" timestamp="1640236605915">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="315" y="0" width="1284" height="1043" key="SettingsEditor/0.0.1920.1043@0.0.1920.1043" timestamp="1640236605915" />
+    <state x="548" y="0" width="958" height="1043" key="new project wizard" timestamp="1640236542885">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="548" y="0" width="958" height="1043" key="new project wizard/0.0.1920.1043@0.0.1920.1043" timestamp="1640236542885" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sqlite-jdbc-3.36.0.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

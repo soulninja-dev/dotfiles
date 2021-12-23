@@ -1,0 +1,169 @@
+<application>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/Main.java" timestamp="1636828236122">
+        <mark key="a" line="23" column="4" />
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="4" column="47" />
+        <mark key="]" line="4" column="47" />
+        <mark key="." line="4" column="46" />
+        <mark key="^" line="4" column="47" />
+      </file>
+      <file name="$USER_HOME$/dev/2021/todo-javafx/src/todo/models/TodoModel.java" timestamp="1640237249030" />
+      <file name="$USER_HOME$/dev/2021/sqlitedemo/src/SqliteConnection.java" timestamp="1640236961866">
+        <mark key="[" line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/2021/sqlitedemo/src/Main.java" timestamp="1640237803807">
+        <mark key="[" line="17" column="46" />
+        <mark key="]" line="17" column="47" />
+        <mark key="." line="17" column="46" />
+        <mark key="^" line="17" column="47" />
+      </file>
+      <file name="$USER_HOME$/dev/2021/DSA/kunalkush/binarysearch/src/Main.java" timestamp="1637175082642">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/SearchRange.java" timestamp="1636828840097">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/2021/todo-javafx/src/todo/controllers/HomeController.java" timestamp="1640237646406" />
+      <file name="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/EvenDigits.java" timestamp="1636911773748">
+        <mark key="'" line="10" column="27" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="51" />
+        <mark key="." line="13" column="14" />
+        <mark key="^" line="13" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/FindMaxMin.java" timestamp="1636829322355">
+        <mark key="'" line="26" column="18" />
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="4" column="45" />
+        <mark key="." line="4" column="44" />
+        <mark key="^" line="4" column="45" />
+      </file>
+      <file name="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/Search2D.java" timestamp="1636910873043">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="8" column="42" />
+        <mark key="^" line="8" column="42" />
+        <mark key="." line="8" column="41" />
+      </file>
+      <file name="$USER_HOME$/dev/2021/sqlitedemo/src/UserModel.java" timestamp="1640238069082">
+        <mark key="'" line="19" column="42" />
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="43" column="5" />
+        <mark key="^" line="43" column="5" />
+        <mark key="." line="43" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/MaxWealth.java" timestamp="1636977490197">
+        <mark key="'" line="22" column="4" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="7" column="37" />
+      </file>
+      <file name="/fragment.java" timestamp="1640236612408">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="13" column="8" filename="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/Main.java" />
+      <jump line="11" column="27" filename="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/Main.java" />
+      <jump line="22" column="4" filename="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/Main.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/Main.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/Main.java" />
+      <jump line="10" column="30" filename="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/Main.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/Main.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/Main.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/Main.java" />
+      <jump line="24" column="18" filename="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/FindMaxMin.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/Search2D.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/Search2D.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/Search2D.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/Search2D.java" />
+      <jump line="8" column="23" filename="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/EvenDigits.java" />
+      <jump line="11" column="12" filename="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/EvenDigits.java" />
+      <jump line="9" column="54" filename="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/EvenDigits.java" />
+      <jump line="12" column="8" filename="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/EvenDigits.java" />
+      <jump line="14" column="12" filename="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/EvenDigits.java" />
+      <jump line="10" column="27" filename="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/EvenDigits.java" />
+      <jump line="17" column="4" filename="$USER_HOME$/dev/2021/DSA/kunalkush/linearsearch/src/MaxWealth.java" />
+      <jump line="21" column="43" filename="$USER_HOME$/dev/2021/DSA/kunalkush/binarysearch/src/Main.java" />
+      <jump line="26" column="38" filename="$USER_HOME$/dev/2021/DSA/kunalkush/binarysearch/src/Main.java" />
+      <jump line="31" column="8" filename="$USER_HOME$/dev/2021/DSA/kunalkush/binarysearch/src/Main.java" />
+      <jump line="38" column="17" filename="$USER_HOME$/dev/2021/DSA/kunalkush/binarysearch/src/Main.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/dev/2021/DSA/kunalkush/binarysearch/src/Main.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/2021/DSA/kunalkush/binarysearch/src/Main.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/2021/DSA/kunalkush/binarysearch/src/Main.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/2021/DSA/kunalkush/binarysearch/src/Main.java" />
+      <jump line="7" column="42" filename="$USER_HOME$/dev/2021/DSA/kunalkush/binarysearch/src/Main.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/dev/2021/DSA/kunalkush/binarysearch/src/Main.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/dev/2021/DSA/kunalkush/binarysearch/src/Main.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/2021/DSA/kunalkush/binarysearch/src/Main.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/2021/DSA/kunalkush/binarysearch/src/Main.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/2021/DSA/kunalkush/binarysearch/src/Main.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/2021/DSA/kunalkush/binarysearch/src/Main.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/2021/DSA/kunalkush/binarysearch/src/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/2021/DSA/kunalkush/binarysearch/src/Main.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/dev/2021/DSA/kunalkush/binarysearch/src/Main.java" />
+      <jump line="23" column="4" filename="$USER_HOME$/dev/2021/sqlitedemo/src/UserModel.java" />
+      <jump line="17" column="42" filename="$USER_HOME$/dev/2021/sqlitedemo/src/UserModel.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PQ==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">PQ==</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">cw==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYoKCgoaW50KU1hdGgubG9nMTAoaSkpKzEpICUgMiA9PSAwKSB7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcWxpdGUuU1FMaXRlQ29ubmVjdGlvbjsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcWxpdGUuU1FMaXRlQ29ubmVjdGlvbjsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3RpbmciKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgICAgLy8gc2FtcGxlIGFycmF5OiBbMSwyLDMsNCw1LDYsNyw4LDldOwogICAgICAgIC8vIHNhbXBsZSB0YXJnZXQ6IDgKICAgICAgICAvLyBzdGFydDogNgogICAgICAgIC8vIGVuZDogOAogICAgICAgIC8vIG1pZEluZGV4OiA3CiAgICAgICAgLy8gbWlkZWxlbWVudDogOAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

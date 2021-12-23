@@ -1,0 +1,160 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="AutoIndentLines">
+      <i c="2" l="1637174572732" />
+    </e>
+    <e n="BraceOrQuoteOut">
+      <i c="1" l="1636828744815" />
+    </e>
+    <e n="CloseProject">
+      <i c="3" l="1640236667547" />
+    </e>
+    <e n="CopyReference">
+      <i c="1" l="1636910880528" />
+    </e>
+    <e n="DebugClass">
+      <i c="2" l="1636910876288" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="607" l="1640237798534" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="66" l="1640237793295" />
+    </e>
+    <e n="EditorCopy">
+      <i c="5" l="1640237241270" />
+    </e>
+    <e n="EditorDelete">
+      <i c="8" l="1637174691723" />
+    </e>
+    <e n="EditorDeleteToWordEnd">
+      <i c="1" l="1636829257665" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="127" l="1640237770084" />
+    </e>
+    <e n="EditorDown">
+      <i c="3" l="1640237138359" />
+    </e>
+    <e n="EditorEnter">
+      <i c="217" l="1640237790309" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1637174462976" />
+    </e>
+    <e n="EditorPaste">
+      <i c="2" l="1640237242187" />
+    </e>
+    <e n="EditorRight">
+      <i c="1" l="1636911672842" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="1" l="1636829302720" />
+    </e>
+    <e n="EditorTab">
+      <i c="46" l="1640237354689" />
+    </e>
+    <e n="EditorUp">
+      <i c="8" l="1637174732645" />
+    </e>
+    <e n="ExpandLiveTemplateByTab">
+      <i c="1" l="1636910696945" />
+    </e>
+    <e n="ExpandRegion">
+      <i c="2" l="1637174431157" />
+    </e>
+    <e n="FileChooser.NewFolder">
+      <i c="3" l="1640236495078" />
+    </e>
+    <e n="FindUsages">
+      <i c="1" l="1640237262319" />
+    </e>
+    <e n="NewClass">
+      <i c="7" l="1640237101153" />
+    </e>
+    <e n="NewFile">
+      <i c="1" l="1640237068115" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="4" l="1636829243302" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1640236789972" />
+    </e>
+    <e n="Run">
+      <i c="13" l="1640237807691" />
+    </e>
+    <e n="RunClass">
+      <i c="16" l="1637175077721" />
+    </e>
+    <e n="SaveAll">
+      <i c="136" l="1640237877762" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="2" l="1637174541661" />
+    </e>
+    <e n="ShowProjectStructureSettings">
+      <i c="3" l="1640236820712" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="4" l="1640237604205" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="4" l="1640236696076" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1636826672446" />
+    </e>
+    <e n="WelcomeScreen.RemoveSelected">
+      <i c="1" l="1640236672568" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="2" l="1636827054585" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$EnterHandler">
+      <i c="1" l="1640237815593" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="2" l="1640236722205" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="807" l="1640237798533" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1636868908604" />
+    </e>
+    <e n="com.intellij.openapi.roots.ui.configuration.libraryEditor.CreateNewLibraryAction">
+      <i c="5" l="1640236856528" />
+    </e>
+    <e n="com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryRootsComponent$2">
+      <i c="4" l="1640236851698" />
+    </e>
+    <e n="com.intellij.openapi.roots.ui.configuration.projectRoot.BaseStructureConfigurable$MyRemoveAction">
+      <i c="6" l="1640236933431" />
+    </e>
+    <e n="com.intellij.openapi.roots.ui.configuration.projectRoot.ModuleStructureConfigurable$AddModuleAction">
+      <i c="1" l="1640236540934" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="6" l="1640240679961" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="6" l="1640237699334" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$3">
+      <i c="2" l="1640233246801" />
+    </e>
+    <e n="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
+      <i c="9" l="1640236920568" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="2" l="1640237604652" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$1">
+      <i c="4" l="1636910808233" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="2" l="1640236608615" />
+    </e>
+  </component>
+</application>
