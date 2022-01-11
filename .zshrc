@@ -14,7 +14,7 @@ alias la='ls -cA'
 alias lm='ls -m'
 alias lr='ls -R'
 alias lg='ls -l --group-directories-first'
-
+alias ls='ls-icons'
 # git
 alias gcl='git clone --depth 1'
 alias gi='git init'
@@ -33,3 +33,6 @@ lfcd () {
 }
 bindkey -s '^o' 'lfcd\n'
 nerdfetch
+
+export PATH=$PATH:/usr/local/go/bin
+export PATH=$PATH:/home/soulninja/go/bin

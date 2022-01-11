@@ -1,6 +1,0 @@
-2021/12/20-14:23:08.076 3241 Reusing MANIFEST /home/soulninja/.config/Postman/Partitions/00991a4a-9230-4f3f-a0a6-70020e75e82c/Local Storage/leveldb/MANIFEST-000001
-2021/12/20-14:23:08.076 3241 Recovering log #7
-2021/12/20-14:23:08.076 3241 Reusing old log /home/soulninja/.config/Postman/Partitions/00991a4a-9230-4f3f-a0a6-70020e75e82c/Local Storage/leveldb/000007.log 
-2021/12/20-15:09:08.312 4f1e Level-0 table #11: started
-2021/12/20-15:09:08.319 4f1e Level-0 table #11: 22108 bytes OK
-2021/12/20-15:09:08.320 4f1e Delete type=0 #7
